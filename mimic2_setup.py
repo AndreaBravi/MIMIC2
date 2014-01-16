@@ -102,7 +102,7 @@ for num, folder in enumerate(os.listdir(flatfiles_dir)):
                           % (table_name, file_path, username))
 
 
-print 'Done creating the MIMIC II Database!'
+print '\n\nDone creating the MIMIC II Database!'
     
     
 """After running the MIMIC Importer successfully, you can safely remove the
